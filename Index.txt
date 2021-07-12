@@ -1,7 +1,5 @@
 ﻿Correct Code 1
 Wrong Code 1
 Correct Code 2
-Wrong Code 2
 Correct Code 3
-Wrong Code 3
 Correct Code 4
